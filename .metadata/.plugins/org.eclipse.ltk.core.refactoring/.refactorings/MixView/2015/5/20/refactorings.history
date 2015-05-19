@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change Layout" description="Change Layout" file="/MixView/res/layout/activity_mix_view.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/MixView" sel-end="667" sel-start="0" stamp="1431613970919" type="android.widget.LinearLayout"/>
+</session>
